@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171a18">
+  <meta name="description" content="Cyber Tech is a free, beginner-friendly cybersecurity learning platform. Learn networking, Linux, web security, digital forensics and incident response through hands-on challenges.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Cyber Tech — Learn by doing">
+  <meta property="og:description" content="Free cybersecurity challenges for every level. Learn by doing, not just watching.">
+  <title>Cyber Tech — Learn Cybersecurity by Doing</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"EducationalOrganization",
+    "name":"Cyber Tech",
+    "description":"A free, beginner-friendly cybersecurity learning platform built around interactive challenges.",
+    "email":"shridhanush1429@gmail.com",
+    "founder":{"@type":"Person","name":"Dhanush"}
+  }
+  </script>
+
+<style>
+.study-guides-section{padding:clamp(3rem,7vw,6rem) max(1rem,calc((100vw - 1120px)/2));background:#111413;color:#f0f3f0}
+.study-guides-section .section-heading{max-width:760px;margin:0 auto 2rem}
+.study-guides-section .eyebrow{color:#9bbf9f;letter-spacing:.14em;font-size:.78rem;font-weight:700}
+.study-guides-section h2{font-size:clamp(1.8rem,4vw,3rem);line-height:1.12;margin:.4rem 0 1rem}
+.study-guides-section .section-heading>p:last-child,.study-guide-note{color:#b7c0b9;line-height:1.7}
+.study-guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:1rem;max-width:1120px;margin:0 auto}
+.study-guide-card{background:linear-gradient(145deg,#1c221f,#121614);border:1px solid #35423a;border-radius:18px;padding:1.35rem;box-shadow:8px 8px 18px #0a0d0b,-5px -5px 14px #202622;display:flex;flex-direction:column;align-items:flex-start;min-height:245px}
+.study-guide-card .course-card__meta{display:flex;gap:.5rem;flex-wrap:wrap;color:#9bbf9f;font-size:.72rem;font-weight:700;letter-spacing:.08em}
+.study-guide-card h3{font-size:1.25rem;line-height:1.3;margin:1rem 0 .5rem;color:#f0f3f0}
+.study-guide-card p{color:#b7c0b9;line-height:1.6;font-size:.94rem;flex:1}
+.study-guide-card a{display:inline-block;background:#9bbf9f;color:#111413;text-decoration:none;font-weight:700;border-radius:10px;padding:.75rem 1rem;margin-top:1rem}
+.study-guide-card a:hover,.study-guide-card a:focus{background:#c6d8c7;outline:2px solid #c6d8c7;outline-offset:3px}
+.study-guide-note{max-width:1120px;margin:1.5rem auto 0;font-size:.88rem}
+</style>
+
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Cyber Tech home">
+      <span class="brand-mark" aria-hidden="true">&gt;_</span>
+      <span>CYBER <b>TECH</b></span>
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a href="#learning">Learning paths</a>
+      <a href="#academy">Academy syllabus</a>
+      <a href="#commands">Command library</a>
+      <a href="#challenges">Challenges</a>
+      <a href="#about">About</a>
+    </nav>
+    <div class="header-actions">
+      <span class="free-pill"><span></span> 100% Free</span>
+      <button class="icon-button mobile-menu-button" id="mobileMenuButton" aria-label="Open navigation" aria-expanded="false">☰</button>
+      <a class="button button-primary header-cta" href="#learning">Start learning <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero section-shell" id="home">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="status-dot"></span> YOUR CYBERSECURITY JOURNEY STARTS HERE</div>
+        <h1>Learn cybersecurity.<br><span class="muted-heading">One challenge at a time.</span></h1>
+        <p class="hero-description">Build real-world security skills by solving interactive challenges. Start from the basics, grow at your own pace, and practise safely — all for free.</p>
+        <div class="hero-actions">
+          <a class="button button-primary button-large" href="#learning">Explore learning paths <span aria-hidden="true">→</span></a>
+          <a class="button button-soft button-large" href="#how-it-works">How it works</a>
+        </div>
+        <div class="hero-trust">
+          <div class="avatar-stack" aria-hidden="true"><span>C</span><span>T</span><span>+</span></div>
+          <p><strong>Learn at your own pace</strong><br><span>No payment. No pressure. Just practice.</span></p>
+        </div>
+      </div>
+      <div class="hero-visual" aria-label="Cyber Tech terminal preview">
+        <div class="terminal-window neumorphic-raised">
+          <div class="terminal-bar"><div class="window-dots"><i></i><i></i><i></i></div><span>cyber-tech / learning-shell</span><span class="terminal-live"><i></i> READY</span></div>
+          <div class="terminal-content">
+            <p class="terminal-comment"># your next step starts here</p>
+            <p><span class="terminal-prompt">student@cybertech</span>:<span class="terminal-path">~</span>$ <span class="terminal-command">start-learning</span></p>
+            <div class="terminal-output">
+              <p><span class="terminal-green">✓</span> Choose your level</p>
+              <p><span class="terminal-green">✓</span> Solve practical challenges</p>
+              <p><span class="terminal-green">✓</span> Track your progress locally</p>
+            </div>
+            <p class="terminal-ready"><span class="terminal-prompt">student@cybertech</span>:<span class="terminal-path">~</span>$ <span class="cursor"></span></p>
+          </div>
+          <div class="terminal-footer"><span>SAFE PRACTICE ENVIRONMENT</span><span>BUILD SKILLS, NOT JUST NOTES.</span></div>
+        </div>
+        <div class="floating-note note-one"><span class="note-icon">✓</span><span><strong>Hands-on learning</strong><small>Learn by doing</small></span></div>
+        <div class="floating-note note-two"><span class="note-icon note-icon-light">↗</span><span><strong>Your pace, your path</strong><small>Progress saved on this device</small></span></div>
+      </div>
+      <div class="hero-bottomline"><span>DESIGNED FOR CURIOUS MINDS</span><span>BEGINNER FRIENDLY · ETHICAL · PRACTICAL</span></div>
+    </section>
+
+    <section class="stats section-shell" aria-label="Platform highlights">
+      <div class="stat-card neumorphic-soft"><span class="stat-icon">⌘</span><div><strong>3</strong><span>Learning levels</span></div></div>
+      <div class="stat-card neumorphic-soft"><span class="stat-icon">▣</span><div><strong>14+</strong><span>Skill areas</span></div></div>
+      <div class="stat-card neumorphic-soft"><span class="stat-icon">◎</span><div><strong>Free</strong><span>For everyone</span></div></div>
+      <div class="stat-card neumorphic-soft"><span class="stat-icon">↗</span><div><strong>Learn</strong><span>Through practice</span></div></div>
+    </section>
+
+    <section class="section-shell learning-section" id="learning">
+      <div class="section-heading">
+        <div><div class="eyebrow">CHOOSE YOUR STARTING POINT</div><h2>Your journey, <span class="muted-heading">your level.</span></h2></div>
+        <p>Choose a level to see its learning path. New to cybersecurity? Start with Beginner — no experience needed.</p>
+      </div>
+      <div class="level-switcher" role="tablist" aria-label="Choose learning level">
+        <button class="level-tab active" role="tab" aria-selected="true" data-level="beginner"><span class="level-number">01</span><span><strong>Beginner</strong><small>Build your foundation</small></span><span class="tab-arrow">↗</span></button>
+        <button class="level-tab" role="tab" aria-selected="false" data-level="intermediate"><span class="level-number">02</span><span><strong>Intermediate</strong><small>Understand vulnerabilities</small></span><span class="tab-arrow">↗</span></button>
+        <button class="level-tab" role="tab" aria-selected="false" data-level="advanced"><span class="level-number">03</span><span><strong>Advanced</strong><small>Think like a defender</small></span><span class="tab-arrow">↗</span></button>
+      </div>
+      <div class="path-intro" id="pathIntro"><div><span class="level-label">LEVEL 01 / FOUNDATIONS</span><h3>Start with the essentials.</h3><p>Get comfortable with the building blocks of cybersecurity before moving to more complex problems.</p></div><div class="path-progress"><div class="progress-label"><span>Your local progress</span><strong id="progressText">0 / 5 complete</strong></div><div class="progress-track"><span id="progressBar"></span></div></div></div>
+      <div class="challenge-grid" id="challengeGrid" aria-live="polite"></div>
+    </section>
+
+
+    <section class="section-shell academy-section" id="academy">
+      <div class="section-heading">
+        <div><div class="eyebrow">THE CYBER TECH CURRICULUM</div><h2>A real syllabus.<br><span class="muted-heading">One skill at a time.</span></h2></div>
+        <p>Follow a structured roadmap from computer and network basics to ethical security testing, defensive operations and practical investigations.</p>
+      </div>
+      <div class="academy-filter" role="group" aria-label="Filter syllabus by level">
+        <button class="academy-filter-button active" data-syllabus-filter="all">All levels</button>
+        <button class="academy-filter-button" data-syllabus-filter="beginner">Beginner</button>
+        <button class="academy-filter-button" data-syllabus-filter="intermediate">Intermediate</button>
+        <button class="academy-filter-button" data-syllabus-filter="advanced">Advanced</button>
+      </div>
+      <div class="syllabus-grid" id="syllabusGrid"></div>
+      <p class="academy-note">All practical security testing must take place on systems you own or have explicit permission to assess. Labs are educational simulations, not permission to test public systems.</p>
+    </section>
+
+    <section class="section-shell command-section" id="commands">
+      <div class="section-heading">
+        <div><div class="eyebrow">QUICK REFERENCE</div><h2>Command library.<br><span class="muted-heading">Know your tools.</span></h2></div>
+        <p>Search common Linux and networking commands. Each entry explains what it does and gives a safe example to learn from.</p>
+      </div>
+      <div class="command-controls"><label class="command-search-label" for="commandSearch">Search commands</label><input id="commandSearch" class="command-search" type="search" placeholder="Try: files, IP, DNS, processes…" autocomplete="off"><div class="command-filters" role="group" aria-label="Filter commands"><button class="command-filter active" data-command-filter="all">All</button><button class="command-filter" data-command-filter="linux">Linux</button><button class="command-filter" data-command-filter="network">Networking</button></div></div>
+      <div class="command-list" id="commandList" aria-live="polite"></div>
+    </section>
+
+    <section class="how-section" id="how-it-works">
+      <div class="section-shell">
+        <div class="section-heading">
+          <div><div class="eyebrow">A BETTER WAY TO LEARN</div><h2>Less scrolling.<br><span class="muted-heading">More solving.</span></h2></div>
+          <p>Cybersecurity makes more sense when you can apply what you learn. Every challenge gives you a goal, a place to think, and feedback to help you improve.</p>
+        </div>
+        <div class="steps-grid">
+          <article class="step-card neumorphic-soft"><span class="step-index">01</span><div class="step-icon">⌖</div><h3>Pick a path</h3><p>Choose beginner, intermediate, or advanced based on your current experience.</p></article>
+          <article class="step-card neumorphic-soft"><span class="step-index">02</span><div class="step-icon">⌨</div><h3>Try the challenge</h3><p>Read the scenario, inspect the clues, and work out your answer in a safe learning environment.</p></article>
+          <article class="step-card neumorphic-soft"><span class="step-index">03</span><div class="step-icon">↗</div><h3>Learn from feedback</h3><p>Get an explanation, mark the challenge complete, and keep building your skills.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell featured-section" id="challenges">
+      <div class="featured-panel neumorphic-raised">
+        <div class="featured-copy"><div class="eyebrow"><span class="status-dot"></span> YOUR FIRST MISSION</div><h2>Every expert<br>started somewhere.</h2><p>Start with a short challenge about spotting a suspicious message. Learn the warning signs and practise making safer decisions online.</p><button class="button button-primary button-large" id="featuredChallengeButton">Launch first challenge <span>→</span></button><small>No account needed. Your progress stays in this browser.</small></div>
+        <div class="mission-card">
+          <div class="mission-top"><span class="mission-tag">MISSION 001</span><span class="mission-difficulty">BEGINNER</span></div>
+          <div class="mission-symbol">⌁</div>
+          <div class="mission-lines"><span></span><span></span><span></span></div>
+          <div class="mission-bottom"><span>PHISHING AWARENESS</span><span>~ 5 MIN</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell about-section" id="about">
+      <div class="about-card neumorphic-soft">
+        <div class="about-mark">&gt;_</div>
+        <div class="about-copy"><div class="eyebrow">THE IDEA BEHIND CYBER TECH</div><h2>Security knowledge<br>should be for everyone.</h2><p>Cyber Tech is a free learning project built to make cybersecurity easier to understand through practical, beginner-friendly challenges. Practise ethically, stay curious, and use your skills to make the internet safer.</p></div>
+        <div class="about-principles"><div><span>01</span><p><strong>Accessible</strong><small>Clear explanations for learners</small></p></div><div><span>02</span><p><strong>Ethical</strong><small>Practice only where authorised</small></p></div><div><span>03</span><p><strong>Practical</strong><small>Learn through active problem-solving</small></p></div></div>
+      </div>
+    </section>
+  </main>
+
+  
+<section id="study-guides" class="section study-guides-section" aria-labelledby="study-guides-title">
+  <div class="section-heading">
+    <p class="eyebrow">FREE DOWNLOADS</p>
+    <h2 id="study-guides-title">Cyber Tech Academy textbooks</h2>
+    <p>Download a themed PDF textbook for each learning path. Study offline, practise in an authorised lab, and return when you're ready for the next challenge.</p>
+  </div>
+  <div class="course-grid study-guide-grid">
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Beginner</span><span>PDF TEXTBOOK</span></div>
+        <h3>Linux Fundamentals</h3>
+        <p>A practical textbook for navigating Linux, managing files, understanding permissions, and reading system activity.</p>
+        <a class="button button--primary" href="assets/pdf/01-linux-fundamentals.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Beginner</span><span>PDF TEXTBOOK</span></div>
+        <h3>Networking Fundamentals</h3>
+        <p>Understand IP addressing, ports, DNS, routing, HTTP, troubleshooting, and packet analysis.</p>
+        <a class="button button--primary" href="assets/pdf/02-networking-fundamentals.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Beginner</span><span>PDF TEXTBOOK</span></div>
+        <h3>Cybersecurity Essentials</h3>
+        <p>Core security principles, threats, risk, identity, cryptography, scams, and safe digital habits.</p>
+        <a class="button button--primary" href="assets/pdf/03-cybersecurity-essentials.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Intermediate</span><span>PDF TEXTBOOK</span></div>
+        <h3>Ethical Hacking Foundations</h3>
+        <p>A responsible methodology for authorised security assessments, evidence gathering, validation, and reporting.</p>
+        <a class="button button--primary" href="assets/pdf/04-ethical-hacking-foundations.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Intermediate</span><span>PDF TEXTBOOK</span></div>
+        <h3>Defensive Security & Log Analysis</h3>
+        <p>Build practical defensive skills through system hardening, log review, detection logic, and evidence-based triage.</p>
+        <a class="button button--primary" href="assets/pdf/05-defensive-security-and-log-analysis.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Advanced</span><span>PDF TEXTBOOK</span></div>
+        <h3>Digital Forensics & Incident Response</h3>
+        <p>Preserve evidence, build timelines, respond to incidents, and verify recovery using disciplined procedures.</p>
+        <a class="button button--primary" href="assets/pdf/06-digital-forensics-and-incident-response.pdf" download>Download study guide ↓</a>
+      </article>
+
+      <article class="course-card study-guide-card">
+        <div class="course-card__meta"><span>Advanced</span><span>PDF TEXTBOOK</span></div>
+        <h3>Threat Hunting & CTF Practice</h3>
+        <p>Develop hypotheses, investigate telemetry, solve safe capture-the-flag tasks, and communicate evidence-based findings.</p>
+        <a class="button button--primary" href="assets/pdf/07-threat-hunting-and-ctf-practice.pdf" download>Download study guide ↓</a>
+      </article>
+  </div>
+  <p class="study-guide-note">All guides are free. Practical exercises use fictional examples and are intended for systems you own or have explicit permission to test.</p>
+</section>
+
+<footer class="site-footer">
+    <div class="footer-main section-shell">
+      <div class="footer-brand"><a class="brand" href="#home"><span class="brand-mark">&gt;_</span><span>CYBER <b>TECH</b></span></a><p>Learn by doing. Defend with purpose.</p><span class="footer-free"><i></i> Free cybersecurity education</span></div>
+      <div class="footer-links"><h4>EXPLORE</h4><a href="#learning">Learning paths</a><a href="#academy">Academy syllabus</a><a href="#commands">Command library</a><a href="#challenges">Challenges</a><a href="#about">About Cyber Tech</a></div>
+      <div class="footer-links"><h4>GET IN TOUCH</h4><a href="mailto:shridhanush1429@gmail.com">shridhanush1429@gmail.com</a><a href="tel:+94773991409">+94 77 399 1409</a><span class="footer-creator">Creator: Dhanush</span></div>
+    </div>
+    <div class="footer-bottom section-shell"><span>© <span id="year"></span> Cyber Tech. All rights reserved.</span><span>Learn ethically. Build responsibly.</span><a href="#home" class="back-top">Back to top ↑</a></div>
+  </footer>
+
+  <div class="modal-backdrop" id="challengeModal" aria-hidden="true">
+    <section class="challenge-modal neumorphic-raised" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-top"><span class="modal-kicker" id="modalKicker">BEGINNER / CHALLENGE</span><button class="icon-button" id="closeModal" aria-label="Close challenge">×</button></div>
+      <div class="modal-content" id="modalContent"></div>
+    </section>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
