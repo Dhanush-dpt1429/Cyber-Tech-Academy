@@ -1,0 +1,1945 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 11 0 R 15 0 R 19 0 R 23 0 R 27 0 R 31 0 R 35 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2595
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 719.6693 cm
+Q
+q
+1 0 0 1 57.02362 700.6693 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (>_ CYBER TECH ACADEMY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.6693 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 5 Tm /F2 29 Tf 34 TL (Networking Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.6693 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 18 TL (Understand IP addressing, ports, DNS, routing, HTTP, troubleshooting, and packet) Tj T* (analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 589.4693 cm
+q
+1.2 w
+1 J
+.333333 .482353 .376471 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 561.4693 cm
+q
+.333333 .482353 .376471 RG
+.7 w
+.101961 .12549 .113725 rg
+n -4 -8 489.2283 30 re B*
+Q
+q
+BT 1 0 0 1 4 4.8 Tm 14 TL /F2 9.2 Tf .776471 .847059 .780392 rg (LEVEL: BEGINNER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.4693 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (Creator:) Tj /F1 9.3 Tf ( Dhanush  ) Tj (  |  ) Tj (  ) Tj /F2 9.3 Tf (Edition:) Tj /F1 9.3 Tf ( 1.0  ) Tj (  |  ) Tj (  ) Tj /F2 9.3 Tf (Cost:) Tj /F1 9.3 Tf ( Free) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.6268 cm
+Q
+q
+1 0 0 1 57.02362 485.6268 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (How to use this guide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 438.6268 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Read the concepts first, run examples only in a system you own or are authorised to use, complete the lab, then) Tj T* (answer the review questions without looking back. Commands and outputs can differ by Linux distribution, software) Tj T* (version, and local configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 403.6268 cm
+q
+.333333 .482353 .376471 RG
+.7 w
+.101961 .12549 .113725 rg
+n -4 -8 489.2283 44 re B*
+Q
+q
+.776471 .847059 .780392 rg
+BT 1 0 0 1 4 18.8 Tm /F2 9.2 Tf 14 TL (Responsible learning: only test systems for which you have explicit permission. These notes are) Tj T* (educational and do not grant permission to access, scan, disrupt, or modify third-party systems.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202031> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2998
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 758.0315 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (Learning objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 735.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Describe common network devices and network types.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 718.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Explain IPv4, IPv6, ports, TCP, and UDP.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 701.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Describe DNS and the path from a browser to a website.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 684.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Use basic diagnostic commands on networks you administer.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Interpret simple packet and subnet examples.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.6929 cm
+Q
+q
+1 0 0 1 57.02362 625.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 607.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 1. Network building blocks) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 2. TCP, UDP, ports, and services) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 3. DNS and web requests) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 556.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 4. Subnetting and routing) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 5. Troubleshooting and packet analysis) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 522.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Guided practical lab) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 505.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Knowledge check) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 488.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Glossary) Tj T* 8 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202032> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F2-0 18 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 7817
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 758.0315 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (1. Network building blocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 692.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 46.7 Tm /F1 9.3 Tf 14 TL (A computer network connects devices so they can exchange data. A LAN usually covers a limited local area; a WAN) Tj T* (connects networks across larger distances; WLAN refers to a wireless local area network. A switch connects devices) Tj T* -0.062785 Tw (within a local network, a router forwards traffic between networks, an access point provides wireless connectivity, and) Tj T* 0 Tw (a firewall applies traffic rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 643.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (An IP address identifies a network interface at the network layer. A MAC address is a link-layer identifier used on a) Tj T* (local network segment. They serve different purposes and are not interchangeable. IPv4 addresses are 32 bits,) Tj T* (commonly written as four decimal octets; IPv6 addresses are 128 bits and use hexadecimal notation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 594.0315 cm
+q
+.333333 .482353 .376471 RG
+.7 w
+.101961 .12549 .113725 rg
+n -4 -8 489.2283 58 re B*
+Q
+q
+.776471 .847059 .780392 rg
+BT 1 0 0 1 4 32.8 Tm /F2 9.2 Tf 14 TL (Private IPv4 ranges commonly used inside networks are 10.0.0.0/8, 172.16.0.0/12, and 192.168.0.0/16. Private) Tj T* (addresses are not directly routable across the public internet without translation or other gateway) Tj T* (mechanisms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.5276 cm
+Q
+q
+1 0 0 1 57.02362 544.5276 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (2. TCP, UDP, ports, and services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 478.5276 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 46.7 Tm /F1 9.3 Tf 14 TL (TCP provides a reliable, ordered byte stream with connection management and retransmission. UDP sends) Tj T* (datagrams without TCP's built-in reliability guarantees; it can be useful where low overhead or application-controlled) Tj T* (timing matters. A port identifies an application endpoint on a host. An open port indicates a service is accepting or) Tj T* (listening for traffic, not automatically that it is vulnerable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 308.0276 cm
+q
+.607843 .74902 .623529 rg
+n 0 163.5 467.7165 -20 re f*
+.101961 .12549 .113725 rg
+n 0 143.5 467.7165 -143.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 148.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 148.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Typical use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 148.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Learning point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 128 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (22/TCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 128 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (SSH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 128 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Secure remote administration; protect keys and access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 107.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (53) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 107.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (DNS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 107.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Name resolution; may use UDP or TCP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (80/TCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (HTTP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Web traffic without TLS encryption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (123/UDP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (NTP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Time synchronisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (443/TCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (HTTPS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (HTTP protected with TLS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (445/TCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (SMB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (File sharing; restrict exposure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (3389/TCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (RDP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.5748 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Remote desktop; restrict and protect access.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.207843 .258824 .227451 RG
+.45 w
+n 0 163.5 m 467.7165 163.5 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 163.5 l S
+n 467.7165 0 m 467.7165 163.5 l S
+n 0 143.5 m 467.7165 143.5 l S
+n 0 123 m 467.7165 123 l S
+n 0 102.5 m 467.7165 102.5 l S
+n 0 82 m 467.7165 82 l S
+n 0 61.5 m 467.7165 61.5 l S
+n 0 41 m 467.7165 41 l S
+n 0 20.5 m 467.7165 20.5 l S
+n 62.3622 0 m 62.3622 163.5 l S
+n 161.5748 0 m 161.5748 163.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 296.689 cm
+Q
+q
+1 0 0 1 57.02362 268.689 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Services can use different ports, and administrators can configure non-default ports. A port number alone is not proof) Tj T* (of the service or its security state. Confirm findings with authorised evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 253.185 cm
+Q
+q
+1 0 0 1 57.02362 221.185 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (3. DNS and web requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 169.185 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (DNS translates domain names into records such as IPv4 A records and IPv6 AAAA records. Other records include) Tj T* (MX for mail routing, CNAME for aliases, and TXT for text-based data used for verification and email-security policies.) Tj T* (Resolvers may cache answers according to TTL values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118.185 cm
+%PreformattedPara
+.607843 .74902 .623529 rg
+BT 1 0 0 1 5 35.7 Tm /F3 8.3 Tf 11 TL (getent hosts example.com) Tj T* (# If installed:) Tj T* (dig example.com A) Tj T* (dig example.com MX) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 82.18504 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (When a browser opens a website, it typically resolves the name, establishes network connectivity, negotiates TLS for) Tj T* (HTTPS, sends an HTTP request, and receives a response. HTTP methods include GET and POST; common status) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202033> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F2-0 22 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 7067
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 754.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL -0.001172 Tw (codes include 200 \(success\), 301/302 \(redirect\), 400 \(bad request\), 403 \(forbidden\), 404 \(not found\), and 500 \(server) Tj T* 0 Tw (error\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 736.0315 cm
+%PreformattedPara
+.607843 .74902 .623529 rg
+BT 1 0 0 1 5 2.7 Tm /F3 8.3 Tf 11 TL (curl -I https://example.com) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 700.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (HTTPS protects data in transit using TLS, provided certificate validation succeeds and the connection is configured) Tj T* (correctly. HTTPS does not guarantee that a site is honest or that its application is free of vulnerabilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 684.5276 cm
+Q
+q
+1 0 0 1 57.02362 652.5276 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (4. Subnetting and routing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.5276 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 46.7 Tm /F1 9.3 Tf 14 TL (Subnetting divides an IP address space into smaller networks. CIDR notation places the prefix length after a slash:) Tj T* (/24 means 24 bits are the network prefix in IPv4, leaving 8 host bits. A traditional /24 has 256 total addresses; in a) Tj T* (typical IPv4 LAN, the network and broadcast addresses are not assigned to hosts, leaving 254 conventional usable) Tj T* (host addresses.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 457.0276 cm
+q
+.607843 .74902 .623529 rg
+n 0 122.5 467.7165 -20 re f*
+.101961 .12549 .113725 rg
+n 0 102.5 467.7165 -102.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 107.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (CIDR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 107.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Total IPv4 addresses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 107.5 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Typical usable hosts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (/24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (256) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (254) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (/25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (128) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (126) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (62) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (/27) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (32) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (/28) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (14) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.207843 .258824 .227451 RG
+.45 w
+n 0 122.5 m 467.7165 122.5 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 122.5 l S
+n 467.7165 0 m 467.7165 122.5 l S
+n 0 102.5 m 467.7165 102.5 l S
+n 0 82 m 467.7165 82 l S
+n 0 61.5 m 467.7165 61.5 l S
+n 0 41 m 467.7165 41 l S
+n 0 20.5 m 467.7165 20.5 l S
+n 85.03937 0 m 85.03937 122.5 l S
+n 240.9449 0 m 240.9449 122.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 445.689 cm
+Q
+q
+1 0 0 1 57.02362 417.689 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (A routing table tells a host where to send packets for different destinations. The default route is used when no more) Tj T* (specific route matches. A gateway commonly forwards traffic beyond the local subnet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 377.689 cm
+%PreformattedPara
+.607843 .74902 .623529 rg
+BT 1 0 0 1 5 24.7 Tm /F3 8.3 Tf 11 TL (ip addr) Tj T* (ip route) Tj T* (ip -6 route) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 341.689 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (IPv6 has no broadcast addressing; it uses multicast and other mechanisms. Do not apply IPv4 broadcast-address) Tj T* (assumptions to IPv6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 326.185 cm
+Q
+q
+1 0 0 1 57.02362 294.185 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (5. Troubleshooting and packet analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 242.185 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL -0.10479 Tw (Troubleshooting should follow evidence rather than guesses. Check the local interface and IP configuration, verify the) Tj T* 0 Tw (expected gateway and routes, test reachability where permitted, inspect DNS, and finally inspect the application) Tj T* (response. A failed ping is not conclusive proof that a host is down because ICMP may be filtered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 180.185 cm
+%PreformattedPara
+.607843 .74902 .623529 rg
+BT 1 0 0 1 5 46.7 Tm /F3 8.3 Tf 11 TL (ip addr) Tj T* (ip route) Tj T* (ping -c 4 192.168.1.1) Tj T* (getent hosts example.com) Tj T* (curl -I https://example.com) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 130.185 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Packet analysis examines captured network frames. Wireshark can display protocols, addresses, ports, timestamps,) Tj T* (and request/response sequences. Use sample captures or capture only traffic you own or have explicit permission to) Tj T* (inspect. Captures can contain credentials, personal data, and confidential content; handle them securely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 81.18504 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Useful concepts include the TCP three-way handshake \(SYN, SYN-ACK, ACK\), DNS query/response pairs, and the) Tj T* (distinction between packet headers and application payload. With HTTPS, application content is encrypted in transit,) Tj T* (though some metadata may remain visible.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202034> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F2-0 26 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 578
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 773.5276 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202035> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F2-0 30 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 2453
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 758.0315 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (Guided practical lab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 720.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Goal: diagnose a simulated connectivity issue using a repeatable sequence. Run diagnostics only on your own) Tj T* (device or authorised lab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Record the interface and IP address using ip addr.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 683.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Inspect routes using ip route and identify the default gateway if present.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 666.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Test the gateway only if you know its address and are allowed to do so.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Resolve a domain using getent hosts example.com.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 632.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Inspect the HTTPS response using curl -I https://example.com.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 13 3.9 Tm /F1 9.1 Tf 13 TL -8 0 Td (\177 Write down which layer each result helps you investigate.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.0315 cm
+q
+.333333 .482353 .376471 RG
+.7 w
+.101961 .12549 .113725 rg
+n -4 -8 489.2283 44 re B*
+Q
+q
+.776471 .847059 .780392 rg
+BT 1 0 0 1 4 18.8 Tm /F2 9.2 Tf 14 TL (Do not scan public IP ranges or other people's devices without explicit authorisation. This lab is about local) Tj T* (diagnosis, not unauthorised discovery.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202036> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 33 0 R
+/F2 8 0 R
+/F2-0 34 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 3942
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 758.0315 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (Knowledge check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 734.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (Try to answer these before checking the answer key. Write your reasoning, not just a single word.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 714.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 3.7 Tm /F2 9.3 Tf 13 TL (1. How does a router differ from a switch?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.0315 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Answer: ________________________________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 3.7 Tm /F2 9.3 Tf 13 TL (2. Does an open port prove a vulnerability?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.0315 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Answer: ________________________________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 648.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 3.7 Tm /F2 9.3 Tf 13 TL (3. What is DNS used for?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.0315 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Answer: ________________________________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 3.7 Tm /F2 9.3 Tf 13 TL (4. What does /26 mean in IPv4 CIDR notation?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 601.0315 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Answer: ________________________________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.0315 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 3.7 Tm /F2 9.3 Tf 13 TL (5. Why might ping fail even when a server is available?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 568.0315 cm
+q
+.717647 .752941 .72549 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Answer: ________________________________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.6929 cm
+Q
+q
+1 0 0 1 57.02362 525.6929 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Answer key and reasoning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.6929 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (1.) Tj /F1 9.3 Tf ( A switch commonly forwards frames within a local network; a router forwards packets between IP networks using) Tj T* (routing information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 457.6929 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (2.) Tj /F1 9.3 Tf ( No. It indicates a service is listening or accepting traffic; vulnerability depends on service configuration, software,) Tj T* (exposure, and other controls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.6929 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (3.) Tj /F1 9.3 Tf ( DNS maps names to records such as IP addresses and mail-routing information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 415.6929 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (4.) Tj /F1 9.3 Tf ( The first 26 bits are the network prefix, leaving 6 host bits and 64 total addresses in that block.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 394.6929 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .941176 .952941 .941176 rg (5.) Tj /F1 9.3 Tf ( ICMP may be filtered or deprioritised; test the actual service and other evidence too.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202037> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 37 0 R
+/F2 8 0 R
+/F2-0 38 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 3795
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .078431 .07451 rg
+n 0 0 595.2756 841.8898 re f*
+Q
+q
+1 0 0 1 57.02362 758.0315 cm
+q
+.607843 .74902 .623529 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (Glossary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 605.0315 cm
+q
+.607843 .74902 .623529 rg
+n 0 143 467.7165 -20 re f*
+.101961 .12549 .113725 rg
+n 0 123 467.7165 -123 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 128 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Term) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 128 cm
+q
+.066667 .078431 .07451 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Meaning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 107.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (IP address) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 107.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Network-layer address for an interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 87 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Application endpoint identifier on a host.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (DNS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 66.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (System for resolving domain names and other records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (CIDR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 46 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Notation specifying a network prefix length.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Gateway) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 25.5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Device or route used to reach another network.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Packet capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 5 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 2.7 Tm /F1 7.8 Tf 10.5 TL (Recorded network traffic used for analysis.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.207843 .258824 .227451 RG
+.45 w
+n 0 143 m 467.7165 143 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 143 l S
+n 467.7165 0 m 467.7165 143 l S
+n 0 123 m 467.7165 123 l S
+n 0 102.5 m 467.7165 102.5 l S
+n 0 82 m 467.7165 82 l S
+n 0 61.5 m 467.7165 61.5 l S
+n 0 41 m 467.7165 41 l S
+n 0 20.5 m 467.7165 20.5 l S
+n 113.3858 0 m 113.3858 143 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 582.3543 cm
+Q
+q
+1 0 0 1 57.02362 556.3543 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Further study) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.3543 cm
+q
+.941176 .952941 .941176 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Continue with the next Cyber Tech Academy module, practise in a disposable virtual machine or an explicitly) Tj T* (authorised lab, and consult official manuals for the tools you use. Verify commands against your own system before) Tj T* (running them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 488.3543 cm
+q
+.333333 .482353 .376471 RG
+.7 w
+.101961 .12549 .113725 rg
+n -4 -8 489.2283 30 re B*
+Q
+q
+.776471 .847059 .780392 rg
+BT 1 0 0 1 4 4.8 Tm /F2 9.2 Tf 14 TL (Cyber Tech Academy \177 Free learning \177 Learn the theory. Practise safely. Build real skills.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.207843 0.258824 0.227451 RG
+0.5 w
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F2-0 7.5 Tf
+9 TL
+ET
+0.607843 0.74902 0.623529 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(\076\137 CYBER TECH ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.717647 0.752941 0.72549 rg
+BT
+1 0 0 1 442.0045 28.34646 Tm
+<4e6574776f726b696e672046756e64616d656e74616c7320207f202038> Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000477 00000 n 
+0000003124 00000 n 
+0000003231 00000 n 
+0000003338 00000 n 
+0000003450 00000 n 
+0000003562 00000 n 
+0000003668 00000 n 
+0000003938 00000 n 
+0000006989 00000 n 
+0000007097 00000 n 
+0000007210 00000 n 
+0000007480 00000 n 
+0000015350 00000 n 
+0000015458 00000 n 
+0000015571 00000 n 
+0000015841 00000 n 
+0000022961 00000 n 
+0000023069 00000 n 
+0000023182 00000 n 
+0000023452 00000 n 
+0000024082 00000 n 
+0000024190 00000 n 
+0000024303 00000 n 
+0000024573 00000 n 
+0000027079 00000 n 
+0000027187 00000 n 
+0000027300 00000 n 
+0000027570 00000 n 
+0000031565 00000 n 
+0000031673 00000 n 
+0000031786 00000 n 
+0000032056 00000 n 
+0000035904 00000 n 
+0000036012 00000 n 
+trailer
+<<
+/Size 39
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+36125
+%%EOF
